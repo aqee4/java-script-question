@@ -17,5 +17,11 @@ This repository contains JavaScript programming questions along with their solut
 11. [Question 118](#118-write-a-javascript-program-to-check-whether-a-given-number-is-in-a-given-range)
 12. [Question 130](#130-write-a-javascript-program-to-find-the-number-of-even-digits-in-a-given-integer)
 13. [Question 150](#150-write-a-javascript-program-to-swap-pairs-of-adjacent-digits-of-a-given-integer-of-even-length)
-
+14. Question 1
+15.  Question 2
+16.   Question 3
+17.    Question 4
+18. Question 5
+19.  Question 7
+ Question 8
 
