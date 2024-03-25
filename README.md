@@ -23,5 +23,6 @@ This repository contains JavaScript programming questions along with their solut
 17.    Question 4
 18. Question 5
 19.  Question 7
- Question 8
-
+20.  Question 8
+21.  Question 62
+ 
